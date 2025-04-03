@@ -417,3 +417,17 @@ footer a:visited {
     }
   }
 }
+@media screen and (min-width: 769px) and (max-width: 992px) {
+  body {
+    padding: 0;
+    padding: 2rem;
+    font-size: 1.6rem;
+    background-color: var(--main-bg);
+  }
+  .container {
+    height: 100%;
+    padding: 1rem;
+    border-radius: 0;
+    box-shadow: none;
+  }
+}
