@@ -45,3 +45,10 @@ To explore or modify the code locally:
 git clone https://github.com/marrozhkova/neoromorphism.git
 cd neoromorphism
 # Open index.html in your browser
+```
+## 👤 Author
+
+**Maryna Rozhkova**  
+Frontend Developer | Learner by Heart  
+📫 [mar.rozhkova@gmail.com](mailto:mar.rozhkova@gmail.com)  
+🌐 [Portfolio](https://marrozhkova-portfolio.vercel.app/)
